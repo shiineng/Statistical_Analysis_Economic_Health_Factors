@@ -8,6 +8,8 @@ wheels/
 .DS_Store
 .pyc
 __pycache__
+.RHistory
+
 
 # Virtual environments
 .venv
