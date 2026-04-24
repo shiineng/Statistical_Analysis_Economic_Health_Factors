@@ -1,0 +1,184 @@
+,Country,Food Safety IHR (%),Status,Life Expectancy (in age),Adult Mortality (%),Hepatitis B (%),GDP (USD),Schooling (Yrs)
+0,Afghanistan,20,Developing,65.0,26.3,65.0,584.25921,10.1
+1,Albania,100,Developing,77.8,7.4,99.0,3954.22783,14.2
+2,Algeria,80,Developing,75.6,1.9,95.0,4132.76292,14.4
+3,Angola,40,Developing,52.4,33.5,64.0,3695.793748,11.4
+4,Antigua and Barbuda,80,Developing,76.4,1.3,99.0,13566.9541,13.9
+5,Argentina,80,Developing,76.3,11.6,94.0,13467.1236,17.3
+6,Armenia,60,Developing,74.8,11.8,94.0,369.654776,12.7
+7,Australia,100,Developed,82.8,5.9,93.0,56554.3876,20.4
+8,Austria,80,Developed,81.5,6.5,93.0,43665.947,15.9
+9,Azerbaijan,80,Developing,72.7,11.8,96.0,55.31382,12.7
+10,Bahamas,80,Developing,76.1,14.7,95.0,,12.6
+11,Bahrain,100,Developing,76.9,6.9,98.0,22688.87824,14.5
+12,Bangladesh,80,Developing,71.8,12.9,97.0,121.15812,10.2
+13,Barbados,80,Developing,75.5,9.8,97.0,15557.8381,15.3
+14,Belarus,100,Developing,72.3,19.6,99.0,5949.11677,15.6
+15,Belgium,60,Developed,81.1,7.4,98.0,4356.875,16.6
+16,Belize,80,Developing,71.0,17.5,94.0,4849.997495,12.8
+17,Benin,60,Developing,60.0,24.9,82.0,783.94791,10.7
+18,Bhutan,60,Developing,69.8,21.1,99.0,2613.645177,12.5
+19,Bolivia (Plurinational State of),20,Developing,77.0,18.6,99.0,,13.8
+20,Bosnia and Herzegovina,,Developing,77.4,8.8,82.0,4574.9787,14.2
+21,Botswana,20,Developing,65.7,25.6,95.0,6532.651,12.6
+22,Brazil,40,Developing,75.0,14.2,96.0,8757.2622,15.2
+23,Brunei Darussalam,80,Developing,77.7,7.8,99.0,3967.8951,14.9
+24,Bulgaria,80,Developed,74.5,13.7,92.0,6993.47736,15.0
+25,Burkina Faso,40,Developing,59.9,2.6,91.0,615.592225,7.7
+26,Burundi,20,Developing,59.6,28.8,94.0,33.681223,10.6
+27,Cabo Verde,40,Developing,73.3,11.4,96.0,2954.119467,13.5
+28,Cambodia,80,Developing,68.7,17.4,89.0,1163.18977,10.9
+29,Cameroon,40,Developing,57.3,35.7,84.0,1244.429421,10.4
+30,Canada,100,Developing,82.2,6.4,55.0,43315.744,16.3
+31,Central African Republic,20,Developing,52.5,39.7,47.0,348.381417,7.1
+32,Chad,20,Developing,53.1,35.6,46.0,777.248751,7.3
+33,Chile,40,Developing,85.0,8.2,97.0,13653.2264,16.3
+34,China,80,Developing,76.1,8.5,99.0,869.211938,13.5
+35,Colombia,80,Developing,74.8,14.3,91.0,644.525556,13.6
+36,Comoros,40,Developing,63.5,22.7,91.0,727.6463868,11.1
+37,Congo,20,Developing,64.7,26.7,8.0,,11.1
+38,Costa Rica,80,Developing,79.6,9.5,92.0,1146.36273,14.2
+39,Croatia,80,Developed,78.0,9.5,94.0,11579.6674,15.3
+40,Cuba,100,Developing,79.1,9.2,99.0,762.261218,13.9
+41,Cyprus,80,Developed,85.0,5.2,97.0,2375.1127,14.3
+42,Czechia,80,Developed,78.8,8.6,97.0,,
+43,Côte d'Ivoire,,Developing,53.3,39.7,83.0,,
+44,Democratic People's Republic of Korea,40,Developing,76.0,13.9,96.0,,
+45,Democratic Republic of the Congo,20,Developing,59.8,25.8,81.0,,
+46,Denmark,100,Developed,86.0,7.1,,5314.64416,19.2
+47,Djibouti,40,Developing,63.5,24.1,84.0,1862.167274,6.3
+48,Dominican Republic,60,Developing,73.9,15.2,81.0,6468.471648,13.2
+49,Ecuador,20,Developing,76.2,11.8,78.0,625.62224,14.0
+50,Egypt,80,Developing,79.0,15.9,93.0,,13.1
+51,El Salvador,80,Developing,73.5,17.8,91.0,4127.11775,13.2
+52,Equatorial Guinea,40,Developing,58.2,3.2,16.0,1347.31257,9.2
+53,Eritrea,40,Developing,64.7,25.5,95.0,,5.0
+54,Estonia,80,Developing,77.6,11.9,91.0,1774.9291,16.5
+55,Ethiopia,40,Developing,64.8,22.5,77.0,645.4637627,8.4
+56,Fiji,80,Developing,69.9,18.8,99.0,4921.89629,15.3
+57,Finland,100,Developing,81.1,7.6,,4245.39744,17.0
+58,France,80,Developing,82.4,7.8,86.0,36526.7711,16.3
+59,Gabon,20,Developing,66.0,22.9,8.0,7388.984144,12.6
+60,Gambia,20,Developing,61.1,26.2,97.0,,8.9
+61,Georgia,60,Developing,74.4,12.9,94.0,3764.64912,13.9
+62,Germany,80,Developed,81.0,6.8,88.0,41176.88158,17.1
+63,Ghana,80,Developing,62.4,24.9,88.0,1361.11395,11.4
+64,Greece,60,Developing,81.0,7.2,96.0,187.78991,17.2
+65,Grenada,60,Developing,73.6,14.2,92.0,9212.192824,15.8
+66,Guatemala,20,Developing,71.9,18.6,74.0,3923.573344,10.7
+67,Guinea,40,Developing,59.0,28.4,54.0,554.48766,8.8
+68,Guinea-Bissau,40,Developing,58.9,27.5,87.0,596.8717189,9.2
+69,Guyana,40,Developing,66.2,21.5,95.0,4136.689919,10.3
+70,Haiti,40,Developing,63.5,2.4,6.0,814.5463952,9.1
+71,Honduras,80,Developing,74.6,14.7,97.0,2326.15856,11.2
+72,Hungary,80,Developed,75.8,13.4,,12365.6263,15.6
+73,Iceland,100,Developed,82.7,4.9,,5734.4436,19.0
+74,India,80,Developing,68.3,18.1,87.0,1613.18878,11.6
+75,Indonesia,100,Developing,69.1,17.6,78.0,3336.16686,12.9
+76,Iran (Islamic Republic of),80,Developing,75.5,8.3,98.0,,14.8
+77,Iraq,40,Developing,68.9,18.2,56.0,4974.2693,10.1
+78,Ireland,100,Developed,81.4,6.4,95.0,6664.144,18.6
+79,Israel,80,Developing,82.5,5.8,96.0,35729.37253,16.0
+80,Italy,100,Developed,82.7,5.6,93.0,349.14755,16.3
+81,Jamaica,60,Developing,76.2,12.5,91.0,4965.989857,12.8
+82,Japan,100,Developed,83.7,5.5,,34474.13736,15.3
+83,Jordan,80,Developing,74.1,11.2,99.0,496.99275,13.1
+84,Kazakhstan,80,Developing,72.0,19.8,98.0,159.9817,15.0
+85,Kenya,40,Developing,63.4,24.9,89.0,1349.97144,11.1
+86,Kiribati,40,Developing,66.3,19.8,82.0,1424.483611,11.9
+87,Kuwait,80,Developing,74.7,8.1,99.0,28975.418,13.3
+88,Kyrgyzstan,40,Developing,71.1,16.6,97.0,,13.0
+89,Lao People's Democratic Republic,40,Developing,65.7,19.4,89.0,,10.8
+90,Latvia,80,Developed,74.6,15.3,94.0,13666.58336,16.0
+91,Lebanon,40,Developing,74.9,9.8,81.0,846.632851,13.3
+92,Lesotho,60,Developing,53.7,48.4,93.0,173.82893,10.7
+93,Liberia,40,Developing,61.4,25.9,52.0,452.38717,9.9
+94,Libya,40,Developing,72.7,13.8,97.0,,13.4
+95,Lithuania,100,Developed,73.6,16.5,94.0,14252.42853,16.5
+96,Luxembourg,80,Developed,82.0,6.3,94.0,1199.8223,13.9
+97,Madagascar,60,Developing,65.5,2.2,69.0,41.8575951,10.3
+98,Malawi,60,Developing,58.3,36.5,88.0,362.6575444,10.8
+99,Malaysia,80,Developing,75.0,12.3,99.0,9643.644683,13.1
+100,Maldives,40,Developing,78.5,6.1,99.0,8395.785198,12.7
+101,Mali,40,Developing,58.2,26.6,64.0,729.725338,8.4
+102,Malta,60,Developed,81.7,5.4,95.0,23819.4636,14.6
+103,Mauritania,40,Developing,63.1,2.5,73.0,1158.256469,8.5
+104,Mauritius,40,Developing,74.6,14.6,97.0,9252.11724,15.2
+105,Mexico,80,Developing,76.7,12.2,82.0,9143.128494,13.3
+106,Micronesia (Federated States of),40,Developing,69.4,16.6,78.0,,11.7
+107,Mongolia,40,Developing,68.8,22.2,99.0,3944.1839,14.8
+108,Montenegro,80,Developing,76.1,1.6,82.0,6461.192554,15.1
+109,Morocco,80,Developing,74.3,9.5,99.0,2847.285569,12.1
+110,Mozambique,40,Developing,57.6,35.5,8.0,528.3125597,9.1
+111,Myanmar,60,Developing,66.6,19.9,89.0,1194.59137,9.1
+112,Namibia,60,Developing,65.8,24.8,92.0,4737.66996,11.7
+113,Nepal,20,Developing,69.2,16.5,91.0,743.7653489,12.2
+114,Netherlands,,Developed,81.9,5.7,94.0,44292.88473,18.1
+115,New Zealand,80,Developed,81.6,6.6,92.0,3821.8937,19.2
+116,Nicaragua,60,Developing,74.8,14.5,98.0,295.966488,11.7
+117,Niger,20,Developing,61.8,2.2,65.0,358.99731,5.4
+118,Nigeria,40,Developing,54.5,34.4,49.0,2655.157977,10.0
+119,Norway,100,Developed,81.8,5.9,,7455.24654,17.7
+120,Oman,80,Developing,76.6,9.9,99.0,16627.36433,13.7
+121,Pakistan,20,Developing,66.4,16.1,72.0,1431.244865,8.1
+122,Panama,80,Developing,77.8,11.8,73.0,13134.4367,13.0
+123,Papua New Guinea,20,Developing,62.9,27.5,67.0,,10.0
+124,Paraguay,60,Developing,74.0,14.6,93.0,419.367724,12.3
+125,Peru,40,Developing,75.5,12.3,9.0,63.343259,13.4
+126,Philippines,60,Developing,68.5,21.1,6.0,2878.33837,11.7
+127,Poland,100,Developed,77.5,11.7,96.0,12565.9876,16.4
+128,Portugal,80,Developed,81.1,7.6,98.0,1922.681,16.6
+129,Qatar,100,Developing,78.2,6.8,99.0,66346.52267,13.4
+130,Republic of Korea,100,Developing,82.3,6.4,98.0,,
+131,Republic of Moldova,60,Developing,72.1,15.7,88.0,,
+132,Romania,60,Developed,75.0,13.3,9.0,8958.788593,14.7
+133,Russian Federation,100,Developing,75.0,22.2,97.0,9329.298351,15.0
+134,Rwanda,40,Developing,66.1,22.7,98.0,71.348397,10.8
+135,Saint Lucia,80,Developing,75.2,13.8,99.0,,13.1
+136,Saint Vincent and the Grenadines,20,Developing,73.2,15.6,98.0,,13.3
+137,Samoa,40,Developing,74.0,12.5,59.0,4149.363444,12.9
+138,Sao Tome and Principe,20,Developing,67.5,1.9,96.0,1624.63963,11.2
+139,Saudi Arabia,100,Developing,74.5,8.8,98.0,2732.86172,16.1
+140,Senegal,40,Developing,66.7,18.8,89.0,98.7256145,9.5
+141,Serbia,80,Developing,75.6,12.1,94.0,5237.255334,14.4
+142,Seychelles,80,Developing,73.2,16.8,98.0,1539.464,14.1
+143,Sierra Leone,60,Developing,51.0,41.3,86.0,587.538233,9.5
+144,Singapore,80,Developed,83.1,5.5,96.0,53629.73746,15.4
+145,Slovakia,40,Developed,76.7,1.9,96.0,,15.0
+146,Slovenia,100,Developed,88.0,7.4,,2729.86383,17.3
+147,Solomon Islands,60,Developing,69.2,17.7,98.0,1922.41388,9.6
+148,Somalia,20,Developing,55.0,31.2,42.0,426.98537,
+149,South Africa,80,Developing,62.9,32.8,75.0,5769.77258,13.0
+150,South Sudan,40,Developing,57.3,33.2,31.0,758.725782,4.9
+151,Spain,80,Developed,82.8,5.6,97.0,25683.84565,17.7
+152,Sri Lanka,60,Developing,74.9,13.8,99.0,3844.89123,14.0
+153,Sudan,40,Developing,64.1,22.5,93.0,2513.884661,7.2
+154,Suriname,20,Developing,71.6,17.6,89.0,8818.982566,12.7
+155,Swaziland,,Developing,58.9,37.3,9.0,3136.92511,11.4
+156,Sweden,100,Developed,82.4,5.3,67.0,5585.25847,15.9
+157,Switzerland,80,Developed,83.4,4.9,,8989.8424,16.0
+158,Syrian Arab Republic,60,Developing,64.5,29.3,41.0,,9.0
+159,Tajikistan,40,Developing,69.7,16.1,96.0,918.6771543,11.3
+160,Thailand,80,Developing,74.9,14.8,99.0,5814.863134,13.6
+161,The former Yugoslav republic of Macedonia,,Developing,75.7,1.2,92.0,,12.9
+162,Timor-Leste,20,Developing,68.3,15.2,76.0,1161.76935,12.5
+163,Togo,20,Developing,59.9,28.7,88.0,551.138346,12.0
+164,Tonga,40,Developing,73.5,13.3,78.0,493.775387,14.3
+165,Trinidad and Tobago,60,Developing,71.2,1.7,9.0,17321.83373,12.7
+166,Tunisia,100,Developing,75.3,0.1,98.0,3828.91589,14.6
+167,Turkey,,Developing,75.8,1.6,97.0,1979.52569,14.5
+168,Turkmenistan,80,Developing,66.3,21.5,99.0,6432.668768,10.8
+169,Uganda,40,Developing,62.3,29.1,78.0,693.8963829,10.0
+170,Ukraine,80,Developing,71.3,19.5,22.0,2124.662666,15.3
+171,United Arab Emirates,80,Developing,77.1,7.5,99.0,3911.74689,13.3
+172,United Kingdom of Great Britain and Northern Ireland,100,Developed,81.2,6.9,,,
+173,United Republic of Tanzania,80,Developing,61.8,27.9,98.0,,
+174,United States of America,100,Developed,79.3,1.3,92.0,,
+175,Uruguay,60,Developing,77.0,11.6,95.0,15524.84247,15.5
+176,Uzbekistan,60,Developing,69.4,18.4,99.0,2137.576852,12.1
+177,Vanuatu,40,Developing,72.0,1.3,64.0,285.83414,10.8
+178,Venezuela (Bolivarian Republic of),80,Developing,74.1,15.7,87.0,,14.3
+179,Viet Nam,40,Developing,76.0,12.7,97.0,,12.6
+180,Yemen,40,Developing,65.7,22.4,69.0,,9.0
+181,Zambia,80,Developing,61.8,3.3,9.0,1313.889646,12.5
+182,Zimbabwe,80,Developing,67.0,33.6,87.0,118.69383,10.3
